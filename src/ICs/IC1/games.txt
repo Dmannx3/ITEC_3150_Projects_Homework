@@ -1,0 +1,60 @@
+Card
+1
+Solitaire
+standard
+52
+1
+firstPersonShooter
+2
+Halo
+4
+XBox
+true
+Chiefs
+Puzzle
+3
+Portal
+false
+3
+Congratulations, you have completed the challenges of Portal
+Better luck next time. Perhaps you will be able to teleport next time.
+Card
+4
+Free Cell
+standard
+52
+1
+Card
+5
+Spider
+standard
+52
+1
+firstPersonShooter
+6
+Borderland
+4
+XBox
+false
+none
+firstPersonShooter
+7
+Diablo 4
+20
+PC, Xbox, PS
+true
+Wizards
+Puzzle
+8
+Maze Master
+false
+10
+You successfully navigated the mazes.
+You got lost in the mazes. Hope you can find your way out sometime.
+Puzzle
+9
+Match Maker
+false
+3
+You matched all of the tiles
+Need to learn your shapes. These don't match.
